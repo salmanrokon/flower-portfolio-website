@@ -1,0 +1,106 @@
+/*Header Style Start*/
+header{
+    width: 1920px;
+    height: 850px;
+    background: rgba(229, 84, 115, 0.10);
+
+}
+.head-text{
+    width: 708px;
+    color: #272727;
+    font-family: Lato;
+    font-weight: 800;
+    margin-left: 240px;
+    margin-top: 100px;
+}
+.big-text{
+    font-size: 80px;
+}
+.head-container{
+    display: flex;
+}
+.flower-t{
+width: 635px;
+height: 800px;
+}
+.img{
+    margin-left: 97px;
+}
+.small-text{
+    margin-top: -32px;
+}
+.btn-primary{
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    outline: none;
+    font-size: 20px;
+    color: #fff;
+}
+/*Header Style End*/
+
+/*Main Style Start*/
+
+.featured{
+    text-align: center;
+    margin-top: 70px;
+}
+.about-flowers{
+    width: 594px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+/*Flower Box style Start*/
+.ract{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.flower-box{
+    width: 1440px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.box-img{
+    width: 310px;
+    height: 428px;
+    bottom: 0;
+    margin: 0 auto;
+}
+.img-1stf{
+    margin-top: 109px;
+}
+.wing-5{
+    margin-top: 123px;
+}
+.wing-7{
+    margin-top: 67px;
+}
+.ptext{
+    text-align: center;
+    margin-top: 120px;
+    text-decoration: underline;
+}
+/*Flower Box style End*/
+
+/*icon-container style start*/
+.icon-container{
+    width: 1440px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    margin: 0 auto;
+    margin-top: 120px;
+    text-align: center;
+}
+.img{
+    margin: 0 auto;
+    margin-top: 86px;
+}
+
+/*icon-container style End*/
